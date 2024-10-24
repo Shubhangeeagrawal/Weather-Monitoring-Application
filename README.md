@@ -38,7 +38,6 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
 **bash**
 git clone https://github.com/Shubhangeeagrawal/Weather-Monitoring-Application
-cd weather-monitoring
 
 ### Step 2: Build and Run the Application
 You can use Docker Compose to set up the web server and database containers.
