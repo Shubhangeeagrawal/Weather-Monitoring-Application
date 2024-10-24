@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Setup Instructions
 ### Step 1: Clone the Repository
 **bash**
-git clone https://github.com/Shubhangeeagrawal/weather-monitoring.git
+git clone https://github.com/Shubhangeeagrawal/Weather-Monitoring-Application
 cd weather-monitoring
 
 ### Step 2: Build and Run the Application
